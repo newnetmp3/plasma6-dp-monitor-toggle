@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "newnetmp3"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Wayland Plasma 6 DP-2/DP-3 toggle with staged KScreen re-enable and layout restore.",
+        "Icon": "video-display",
+        "Id": "com.scott.dp23toggle",
+        "Name": "DP-2 + DP-3 Toggle",
+        "Version": "1.0.7",
+        "License": "MIT"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
